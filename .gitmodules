@@ -1,0 +1,6 @@
+[submodule "Plugins/SDFutureExtensions"]
+	path = Plugins/SDFutureExtensions
+	url = https://github.com/splash-damage/future-extensions.git
+[submodule "Plugins/Automatron"]
+	path = Plugins/Automatron
+	url = https://github.com/splash-damage/automatron.git
